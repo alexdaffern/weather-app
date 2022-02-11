@@ -12,12 +12,15 @@
     <br />
    
 
-
+<p>Sites landing page
 ![homepage](https://github.com/alexdaffern/weather-app/blob/main/public/assets/weather%20today%20homepage.png?raw=true)
-   <p>Sites landing page
-  
+   
+  <p>Example of user searching for berlin
 ![berlin weather](https://github.com/alexdaffern/weather-app/blob/main/public/assets/Weather-today-berlin.png?raw=true)
-    <p>Example of user searching for berlin
+   
+      <p>Example of user searching for a location that does not exist
+![berlin weather](https://github.com/alexdaffern/weather-app/blob/main/public/assets/error.png?raw=true)
+    
 ### Built With
 
    

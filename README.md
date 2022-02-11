@@ -14,7 +14,7 @@
 
 <p>Sites landing page </p>
 
-![alt text](https://github.com/alexdaffern/weather-app/blob/main/public/assets/Weather-today-berlin.png?raw=true)
+![alt text](https://github.com/alexdaffern/weather-app/blob/main/public/assets/weather%20today%20homepage.png?raw=true)
    
 <p>Example of user searching for berlin</p>
 

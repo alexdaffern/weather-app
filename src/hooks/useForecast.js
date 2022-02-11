@@ -3,7 +3,7 @@ import axios from 'axios';
 
 
 
-const BASE_URL = 'http://dataservice.accuweather.com/';
+const BASE_URL = 'https://dataservice.accuweather.com/';
 const API_KEY = 'apikey=kl9E3G8gQx1Z3ydiLZDu5EOfGo1LJOtc';
 
 const useForecast = () => {

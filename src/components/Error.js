@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 
 
 const Error = ({ message }) => (
-    <div className={` alert position-absolute`} role="alert">
+    <div className="center" role="alert">
         {message}
     </div>
 );

@@ -13,10 +13,15 @@
    
 
 
-
-
+![homepage](https://github.com/alexdaffern/weather-app/blob/main/public/assets/weather%20today%20homepage.png?raw=true)
+   <p>Sites landing page
+  
+![berlin weather](https://github.com/alexdaffern/weather-app/blob/main/public/assets/Weather-today-berlin.png?raw=true)
+    <p>Example of user searching for berlin
 ### Built With
 
+   
+   
 * [React.js](https://reactjs.org/)
 * [Bootstrap](https://getbootstrap.com)
 

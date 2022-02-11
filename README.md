@@ -5,7 +5,7 @@
 <br />
 <div align="center">
  
-<h3 align="center">project_title</h3>
+<h3 align="center">Weather App</h3>
 
   <p align="center">
     project_description
@@ -36,10 +36,6 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 
 
 

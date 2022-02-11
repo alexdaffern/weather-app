@@ -1,0 +1,101 @@
+
+
+:root {
+    --gradient: linear-gradient(135deg, #95a8e7 10%, #0a0a3a 100%);
+    --bg-color: #205cbb;
+    --bg-color--card: #244a85;
+
+    --main-text-color: #ffffff;
+
+    --main-border-radius: 25px;
+    --secondary-border-radius: 15px;
+    align-content: center;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    border-radius: 25px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--bg-color);
+    align-content: center;
+    color: var(--main-text-color);
+}
+
+
+.btn-primary-outline {
+    background-color: transparent;
+    max-width: 50;
+    border: none;
+  }
+
+.close-button{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.input {
+    border-radius: var(--main-border-radius);
+    margin-bottom: 1rem;
+}
+
+.search-button {
+    margin-top: 10px;
+    border: none;
+    border-radius: var(--main-border-radius);
+    padding: 0.65rem;
+    background-image: var(--gradient);
+    color: var(--main-text-color);
+    font-weight: 700;
+    box-shadow: 10 10 30px -5px rgba(7, 86, 204, 0.25);
+    cursor: pointer;
+    line-height: initial;
+    width: 100%;
+    height: 38px;
+}
+
+.search-button:hover {
+    color: var(--main-text-color);
+    -webkit-transform: scale(0.98);
+    -ms-transform: scale(0.98);
+    transform: scale(0.98);
+}
+
+.header {
+    padding: 2rem;
+    text-align: center;
+    font-weight: 900;
+    font-size: 2rem;
+    
+}
+
+.form {
+    align-self: center;
+    
+}
+
+.weather-card{
+    background-color: #1e1e66;
+    width: fit-content;
+    border-radius: 15%;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 10px 10px 3px rgba(20, 70, 116, 0.5);
+
+}
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+.close{
+    margin: auto;
+   
+}
+
+.loader{
+    align-self: center;
+    max-width: 60px;
+    margin: auto;
+}
